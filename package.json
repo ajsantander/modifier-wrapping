@@ -1,0 +1,27 @@
+{
+  "name": "modifier-wrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "hardhat run scripts/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajsantander/modifier-wrapping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajsantander/modifier-wrapping/issues"
+  },
+  "homepage": "https://github.com/ajsantander/modifier-wrapping#readme",
+  "dependencies": {
+    "hardhat": "^2.6.4"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.7"
+  }
+}
